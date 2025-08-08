@@ -825,8 +825,3 @@ DOMAIN-SUFFIX,zui.com
 DOMAIN-SUFFIX,zuimeitianqi.com
 DOMAIN-SUFFIX,zuoyebang.com
 DOMAIN-SUFFIX,zybang.com
-DOMAIN-REGEX,*.ffzy-online?.com
-DOMAIN-REGEX,*.ffzy-play?.com
-DOMAIN-REGEX,*.lz-cdn?.com
-DOMAIN-REGEX,*.lz-cdn??.com
-DOMAIN-REGEX,*.qhimgs?.com
