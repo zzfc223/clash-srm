@@ -1,2 +1,2 @@
 # clash-srm
-clash自用梯子规则
+Clash自用梯子规则
